@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dzpackage.app"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "dzpackage",
+    "packageName": "com.dzpackage.app",
+    "packageFolder": "com/dzpackage/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmQyNzZjZDBkYTJmZWQ2ZDc0N2Q2MTdkMjY4OWM0ODkwNzA2ZDY0NTdlY2NiZDkzZDEyNTAxYmUyZTUyZjAxZDhjMTg3ODllZmRjMzE0NmM5YmY5YzIzNDQ3NmEyYWE1YTA1MGI0NWZiNjZkYjNjMGY0ZTUyY2RkYzY1MGNmMGM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1591887576572,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
