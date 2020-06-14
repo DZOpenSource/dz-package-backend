@@ -2,6 +2,8 @@
 
 This application was generated using JHipster 6.9.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.9.1](https://www.jhipster.tech/documentation-archive/v6.9.1).
 
+[![Build Status](https://travis-ci.com/DZOpenSource/dz-package-backend.svg?branch=master)](https://travis-ci.com/DZOpenSource/dz-package-backend.svg?branch=master)
+
 ## Development
 
 To start your application in the dev profile, run:
