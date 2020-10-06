@@ -32,6 +32,7 @@
     "enableTranslation": false,
     "clientPackageManager": "npm",
     "blueprints": [],
-    "skipClient": true
+    "skipClient": true,
+    "lastLiquibaseTimestamp": 1595241003000
   }
 }
